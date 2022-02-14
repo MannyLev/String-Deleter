@@ -1,0 +1,5 @@
+public class main {
+  public void stringDeleter(String string) {
+    boolean isBetter = false;
+    int i = 0;
+    
